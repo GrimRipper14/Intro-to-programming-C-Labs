@@ -1,0 +1,1 @@
+int sumDigitCube(int n);
